@@ -1,0 +1,51 @@
+Little Difficulty Ver0.9(?)Release
+
+This is an RPG Maker MV developed game.
+This is a size fetish themed game. Some death scenes exist.
+
+Creator Info:
+Jellytea819
+https://www.deviantart.com/jellytea819
+https://twitter.com/jellytea819
+https://giantessworld.net/viewuser.php?uid=35374
+
+
+Basic RPG Maker game controls:
+Movement: Arrow Keys
+Confirm Key: Z
+Cancel Key: X
+Dash: Shift
+
+
+In Game Notes:
+5 Characters with 4 difficulties (EX difficulty unlockable by Merchant).
+Fairy - Default
+Maid - Default
+To unlock Merchant - lose to the Maid on Normal Difficulty. 
+To unlock Master - Talk to Merchant for the first time
+To unlock Goddess - get the Goddess Orb from the Merchant's Special Goods
+*Merchant Special Goods require Goddess Coins given from the statue on the East. One Goddess Coin per first time victory for Normal, Hard, and EX.
+
+For people who want to speed through the battles, the mousehole in the Common
+Area has the debug kill and debug win commands (would be unlockable later).
+
+
+Plug-in thanks for mechanics and zoom features:
+Yanfly for their free plug-ins
+Aramis-IX for Sprite Zoom
+Galv for Screen Zoom
+
+
+Screenshots of modeled characters from:
+Koikatsu
+
+Development Notes:
+This game was made in 7 days(July 7-11, 2022) under a self-imposed challenge to get used to RPG Maker MV. It should mostly be complete, but quality is not assured (which is why it is ver0.9), so please leave a comment under the original posts if you want to leave feedback!
+
+0.9.1 Update -
+Re-added the animations that went missing
+0.9.2 Update -
+Fixed the glitch where the Merchant EX doesn't allow a Goddess Coin.
+Fixed the glitch where Goddess Easy stays in a dark room and doesn't fade in
+0.9.3 Update-
+Fixed the issue where Goddess Coin isn't granted if Goddess is beaten on Normal difficulty while angry (she does while calm so it isn't locked out)

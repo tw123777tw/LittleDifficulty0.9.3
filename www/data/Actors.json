@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"sprite1","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"","traits":[{"code":11,"dataId":5,"value":1.5},{"code":11,"dataId":8,"value":0.75},{"code":11,"dataId":3,"value":1.25}],"initialLevel":10,"maxLevel":99,"name":"Hero","nickname":"Challenge Lover","note":"","profile":"An apprentice to a former hero, striving to become an\nactual hero. Light Element. Poor against water/ice"}
+]
